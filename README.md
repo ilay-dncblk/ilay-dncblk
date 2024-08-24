@@ -8,28 +8,28 @@
 - 💬 You can ask me anything you want, I'm happy to help;
 - 📫 Contact me: [ilay.dncblk@gmail.com](mailto:ilay.dncblk@gmail.com);
 
+
 <svg width="200px" height="60px" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 50 C 20 10, 40 10, 50 50 S 90 90, 100 50" stroke="#000000" stroke-width="2" fill="transparent" id="hello-path"/>
-  <text font-size="32" font-family="Brush Script MT">
-    <textPath href="#hello-path" startOffset="0%" fill="#000000">
+  <path id="hello-path" fill="transparent" stroke="#000" stroke-width="2"
+    d="M10 40 Q 20 10, 30 40 T 50 40 Q 60 10, 70 40 T 90 40 Q 100 10, 110 40 T 130 40 Q 140 10, 150 40 T 170 40" />
+  <text x="10" y="40" font-size="20" fill="transparent" stroke="black" stroke-width="0.5" font-family="Arial">
+    <textPath href="#hello-path" startOffset="0">
       hello
     </textPath>
   </text>
-</svg>
-
-<style>
-  #hello-path {
-    stroke-dasharray: 200;
-    stroke-dashoffset: 200;
-    animation: draw 5s linear forwards;
-  }
-
-  @keyframes draw {
-    to {
-      stroke-dashoffset: 0;
+  <style>
+    #hello-path {
+      stroke-dasharray: 200;
+      stroke-dashoffset: 200;
+      animation: draw 5s linear forwards;
     }
-  }
-</style>
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+</svg>
 
 
 ## Languages and Tools:
