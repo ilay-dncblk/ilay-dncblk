@@ -1,24 +1,31 @@
 ## Hi there 👋
-## I'm İlayda Dinçbilek, an AI / Unity Developer from Turkey. 
 
-## Talking About Personal Things:
+I'm İlayda Dinçbilek, an AI / Unity Developer from Turkey.
 
+Talking About Personal Things:
 - 👨🏽‍💻 I am currently working on Generative Artificial Intelligence;
 - 🌱 I am learning Digital Twin;
 - 💬 You can ask me anything you want, I'm happy to help;
-- 📫 Contact me: [ilay.dncblk@gmail.com](mailto:ilay.dncblk@gmail.com);
+- 📫 Contact me: ilay.dncblk@gmail.com;
 
+### Languages and Tools:
 
-```html
-<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="50" font-size="40" fill="black">
-    <textPath href="#hello-path" startOffset="0%">
-      <animate attributeName="startOffset" from="100%" to="0%" dur="5s" fill="freeze" />
-      hello
-    </textPath>
-  </text>
-  <path id="hello-path" d="M10 50 Q 50 0, 90 50 Q 130 100, 170 50" fill="transparent" stroke="black" />
-</svg>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>👨🏽‍💻 I am currently working on Generative Artificial Intelligence;</li>
+        <li>🌱 I am learning Digital Twin;</li>
+        <li>💬 You can ask me anything you want, I'm happy to help;</li>
+        <li>📫 Contact me: ilay.dncblk@gmail.com;</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://www.emerson.com/resource/image/5574706/landscape_ratio16x9/600/338/c275175db9ed5bbf80fcd81c1e999a00/C6EC752AD018BE075557500EF4136E4C/c045%20maximize%20the%20digital%20investment%20value.png" alt="Sample Image 1"/>
+      <img src="https://media.licdn.com/dms/image/v2/C4E12AQETYiL8X_saBA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1629959752831?e=1729728000&v=beta&t=MckUH6qAKIwpKGq1reOfPLyPeccsOC0xwpYMDaAya3c" alt="Sample Image 2"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Languages and Tools:
