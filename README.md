@@ -1,6 +1,6 @@
 # Hi there 👋 I'm İlayda Dinçbilek 👑
 
-<img src="https://github.com/ilay-dncblk/ilay-dncblk/blob/main/ai.jpg" alt="Hi there 👋 I'm İlayda Dinçbilek 👑" width="300" align="right">
+<img src="https://github.com/ilay-dncblk/ilay-dncblk/blob/main/resim_2024-08-24_160714615.jpg" alt="Hi there 👋 I'm İlayda Dinçbilek 👑" width="300" align="right">
 
 **Software Engineering student and Artificial Intelligence / UNITY Developer.**
 
