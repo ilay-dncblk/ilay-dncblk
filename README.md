@@ -1,6 +1,5 @@
 # Hi there 👋 I'm İlayda Dinçbilek 👑
 
-**✨👩🏻‍💻💁🏻‍♀️💃🏻💅🏻**
 
 **Software Engineering student and Artificial Intelligence / UNITY Developer.**
 
