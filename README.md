@@ -9,26 +9,15 @@
 - 📫 Contact me: [ilay.dncblk@gmail.com](mailto:ilay.dncblk@gmail.com);
 
 
-<svg width="200px" height="60px" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
-  <path id="hello-path" fill="transparent" stroke="#000" stroke-width="2"
-    d="M10 40 Q 20 10, 30 40 T 50 40 Q 60 10, 70 40 T 90 40 Q 100 10, 110 40 T 130 40 Q 140 10, 150 40 T 170 40" />
-  <text x="10" y="40" font-size="20" fill="transparent" stroke="black" stroke-width="0.5" font-family="Arial">
-    <textPath href="#hello-path" startOffset="0">
+```html
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="50" font-size="40" fill="black">
+    <textPath href="#hello-path" startOffset="0%">
+      <animate attributeName="startOffset" from="100%" to="0%" dur="5s" fill="freeze" />
       hello
     </textPath>
   </text>
-  <style>
-    #hello-path {
-      stroke-dasharray: 200;
-      stroke-dashoffset: 200;
-      animation: draw 5s linear forwards;
-    }
-    @keyframes draw {
-      to {
-        stroke-dashoffset: 0;
-      }
-    }
-  </style>
+  <path id="hello-path" d="M10 50 Q 50 0, 90 50 Q 130 100, 170 50" fill="transparent" stroke="black" />
 </svg>
 
 
