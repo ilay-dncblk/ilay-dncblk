@@ -1,18 +1,10 @@
-## Hi there 👋
-
-I'm İlayda Dinçbilek, an AI / Unity Developer from Turkey.
-
-Talking About Personal Things:
-- 👨🏽‍💻 I am currently working on Generative Artificial Intelligence;
-- 🌱 I am learning Digital Twin;
-- 💬 You can ask me anything you want, I'm happy to help;
-- 📫 Contact me: ilay.dncblk@gmail.com;
-
-### Languages and Tools:
-
 <table>
   <tr>
     <td>
+      <ul>
+        <li>## Hi there 👋</li>
+        <li>I'm İlayda Dinçbilek, an AI / Unity Developer from Turkey.</li>
+      </ul>
       <ul>
         <li>👨🏽‍💻 I am currently working on Generative Artificial Intelligence;</li>
         <li>🌱 I am learning Digital Twin;</li>
