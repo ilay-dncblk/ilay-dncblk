@@ -3,7 +3,7 @@
 
 **Software Engineering student and Artificial Intelligence / UNITY Developer.**
 
-<img src="https://github.com/ilay-dncblk/ilay-dncblk/blob/main/Photo.jpg" alt="Hi there 👋 I'm İlayda Dinçbilek 👑" width="300" align="right">
+<img src="https://github.com/ilay-dncblk/ilay-dncblk/blob/main/a.jpg" alt="Hi there 👋 I'm İlayda Dinçbilek 👑" width="300" align="right">
 
 - 🛰️ I am currently working on Generative Artificial Intelligence
 - 👨‍💻 I am learning Digital Twin
